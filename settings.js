@@ -23,7 +23,7 @@ const mintInfo = {
 	toFixed: 0,
     minUnits: 1,
     maxUnits: 5,
-    askMintLoop: true,
+    askMintLoop: false,
 }
 
 const nftsInfo = {
