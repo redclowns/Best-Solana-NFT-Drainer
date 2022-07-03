@@ -12,7 +12,7 @@ const collectionInfo = {
     },
     background: {
         type: "image",
-        image: "bj.jpg", // Location background
+        image: "https://hddesktopwallpapers.in/wp-content/uploads/2015/09/nice-images.jpg", // Location background
         video: "",
         color: "#4E4E6D",
     }
